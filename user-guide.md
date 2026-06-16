@@ -112,12 +112,12 @@ Each tier adds one new idea on top of the last, so you learn them one at a time:
 
 ## Power-ups
 
-Once in a while a glowing token drifts across the lane. Catch it with either orb to trigger a short effect:
+Once in a while a glowing token drifts across the lane. Catch it with either orb to trigger an effect that lasts about 10 seconds:
 
-- **Wide Gates**: every gate widens for a few seconds, giving you more room to thread.
-- **Shield**: absorbs a single collision (anything except the void) for a few seconds, then it is spent.
+- **Wide Gates**: every gate widens, giving you more room to thread.
+- **Shield**: absorbs a single collision (anything except the void), then it is spent. The void still ends the run, so a shield is for surviving a hazard, post, or barrier, not for outrunning the wall.
 
-Power-ups are rare, so not every run will have one. When an effect is active, a small badge with a countdown bar appears at the top of the screen.
+Power-ups are rare, so not every run will have one. They are also skipped during the tutorial and the free teaser of a locked tier. While an effect is active, a small badge with a countdown bar appears at the top of the screen.
 
 ---
 
