@@ -99,8 +99,8 @@ There are ten tiers. Tiers 1 to 3 are free. Tiers 4 to 10 are unlocked with a si
 
 Each tier adds one new idea on top of the last, so you learn them one at a time:
 
-- **Tier 1**: base slalom. Learn the swing.
-- **Tier 2**: big turns. Gates are offset far enough that you have to swing wide to line each one up.
+- **Tier 1**: big turns. Gates are offset far enough that you have to swing wide to line each one up.
+- **Tier 2**: moving gates. Some gates slide across the lane, near or far, at varying speeds. Not every gate moves, and how many move varies by level. Orbit has more and faster movers; Pendulum has fewer and slower ones.
 - **Tier 3**: drifting hazards. Lethal orbs patrol across the lane.
 - **Tier 4**: the signature mechanic. In Orbit your spin flips direction at marked zones; in Pendulum you pass through tether zones that shorten or lengthen the tether, speeding up or slowing down the swing.
 - **Tier 5**: barriers. Gate-sized lethal walls sit beside a gate, so you cannot detour around it. You have to thread the gap.
