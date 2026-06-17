@@ -85,7 +85,7 @@ The void is the one threat that nothing can protect you from, so keeping ahead o
 
 ### Scoring
 
-Your score for a run is the number of gates you cleared. Best scores post to the Game Center leaderboards (see Leaderboards below).
+Each clean gate scores points. Clearing gates in a row builds a multiplier (shown in the top-left of the screen) that multiplies the points each gate is worth, up to a cap. A miss resets the multiplier back to x1, so a flawless run scores far higher than a scrappy one. Your run's total posts to the Game Center leaderboards (see Leaderboards below).
 
 ### The Timer
 
