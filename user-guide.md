@@ -183,7 +183,7 @@ Once you own the full game, **Settings > Soundtrack Player** opens a built-in mu
 - Use the previous, play/pause, and next controls.
 - Scrub through a track with the progress slider, with elapsed and remaining time shown.
 
-The player behaves like a normal music app: it plays at your device volume, keeps playing when the screen locks, and shows up on the lock screen and in Control Center with working playback controls.
+The player plays at full volume so your device volume controls it. Like the rest of the game's audio, it pauses when you leave the app or lock the screen.
 
 ---
 
