@@ -13,7 +13,7 @@ Initial public release.
 - Ten difficulty tiers. Tiers 1 to 3 are free; tiers 4 to 10 unlock with a single one-time purchase.
 - A learn-one-at-a-time mechanic ladder: big turns, moving gates, drifting hazards, spin-flips and tether zones, barriers, fly-ins, and pulsing gates, combining in the top tiers.
 - Endless levels: each cleared level generates a slightly harder next one.
-- Rare floating power-ups: Wide Gates (gates widen briefly) and Shield (absorbs one non-void hit briefly).
+- Rare floating power-ups: Wide Gates (gates widen briefly), Shield (absorbs one non-void hit), and Freeze (stops moving gates and hazards while the void keeps coming).
 - A run timer and a saved best time for each level.
 
 **Orientation and controls**
