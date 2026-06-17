@@ -24,7 +24,7 @@ The first time you open Arclo, a short guided tutorial runs automatically. It in
 2. Tap **Play**.
 3. Tap the screen to swap the anchor and move the pair forward.
 4. Steer the swinger through each gate's gap without clipping a post.
-5. Reach the finish gate to clear the level. The next level is generated a little harder.
+5. Cleanly pass through the green finish gate to clear the level. The next level is generated a little harder.
 
 ---
 
@@ -72,7 +72,7 @@ Pendulum ignores this setting because gravity always defines "down."
 
 ### Gates
 
-Each gate is a pair of posts with a gap between them. Pass the midpoint of your orb pair cleanly through the gap to clear the gate. Touching a post ends the run. The final gate of a level is marked in green and doubles as the finish line.
+Each gate is a pair of posts with a gap between them. Pass the midpoint of your orb pair cleanly through the gap to clear the gate. Touching a post ends the run. The final gate of a level is marked in green; you have to thread it cleanly to win, exactly like any other gate (and on the moving-gate tiers it can slide too), so reaching it is not enough.
 
 ### The Void
 
