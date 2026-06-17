@@ -102,7 +102,7 @@ Each tier adds one new idea on top of the last, so you learn them one at a time:
 - **Tier 1**: base slalom. Learn the swing.
 - **Tier 2**: big turns. Gates are offset far enough that you have to swing wide to line each one up.
 - **Tier 3**: drifting hazards. Lethal orbs patrol across the lane.
-- **Tier 4**: the signature mechanic. In Orbit your spin flips direction at marked zones; in Pendulum you pass through heavy and light gravity bands.
+- **Tier 4**: the signature mechanic. In Orbit your spin flips direction at marked zones; in Pendulum you pass through tether zones that shorten or lengthen the tether, speeding up or slowing down the swing.
 - **Tier 5**: barriers. Gate-sized lethal walls sit beside a gate, so you cannot detour around it. You have to thread the gap.
 - **Tier 6**: fly-ins. Hazards fly in across the lane mid-run.
 - **Tier 7**: pulsing gates. Gate gaps breathe open and closed.
