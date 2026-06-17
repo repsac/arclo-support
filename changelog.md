@@ -14,6 +14,7 @@ Initial public release.
 - A learn-one-at-a-time mechanic ladder: big turns, moving gates, drifting hazards, spin-flips and tether zones, barriers, fly-ins, and pulsing gates, combining in the top tiers.
 - Endless levels: each cleared level generates a slightly harder next one.
 - Rare floating power-ups: Wide Gates (gates widen briefly), Shield (absorbs one non-void hit), and Freeze (stops moving gates and hazards while the void keeps coming).
+- Clean-streak scoring: consecutive clean gates build a multiplier; a miss resets it, so flawless runs score far higher.
 - A run timer and a saved best time for each level.
 
 **Orientation and controls**
@@ -23,7 +24,7 @@ Initial public release.
 **Audio**
 - Original instrumental synthwave soundtrack that plays through the songs with crossfades, with separate gameplay and menu pools.
 - Independent on/off and volume for sound effects and music, plus an option to start a fresh song each run or keep the soundtrack continuous.
-- A built-in Soundtrack Player (with the full game) that behaves like a music app: device-volume playback, lock-screen and Control Center controls, background playback, and a scrub bar.
+- A built-in Soundtrack Player (with the full game) to browse and play every track, with a scrub bar and at full device volume.
 
 **Progress and social**
 - Game Center leaderboards split by mode and by free or full band, recurring weekly.

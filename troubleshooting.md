@@ -9,7 +9,7 @@ Quick answers to the most common questions. If your issue isn't here, email [app
 3. In **Settings > Audio**, confirm Sound Effects and Music are on and their volume sliders are not at zero.
 4. If you connected a Bluetooth speaker or headphones, confirm they're connected and playing audio from other apps.
 
-Note: the Soundtrack Player is the one exception. It plays even with the silent switch on, like a normal music app.
+All audio, including the Soundtrack Player, follows the silent switch and pauses when you leave the app or lock the screen.
 
 ## The music is too loud compared to the sound effects
 
@@ -72,6 +72,7 @@ Email [appstore@edcaspersen.com](mailto:appstore@edcaspersen.com) or file an iss
 - What you expected to happen
 - What actually happened
 - Device model and iOS version (**iOS Settings > General > About**)
+- The app version (**Settings > About** inside Arclo)
 - Which mode and tier you were playing
 
 Short, specific reports are much easier to act on than vague ones. Screenshots and a screen recording help a lot.

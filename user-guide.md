@@ -169,6 +169,10 @@ Reach Settings from the main menu, or from the pause menu during a run.
 - **Reset this tier**: send a single mode and tier back to level 1.
 - **Reset All Progress**: send every tier in both modes back to level 1. This is double-confirmed because it cannot be undone.
 
+### About
+
+- The app version and build number, a Contact Support link, a Privacy Policy link, and a credit line.
+
 ---
 
 ## The Soundtrack
