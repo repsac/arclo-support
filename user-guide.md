@@ -171,7 +171,7 @@ Reach Settings from the main menu, or from the pause menu during a run.
 
 ### About
 
-- The app version and build number, a Contact Support link, a Privacy Policy link, and a credit line.
+- The app version and build number, a Contact Support link, and a Privacy Policy link.
 
 ---
 
