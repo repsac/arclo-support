@@ -158,6 +158,11 @@ Reach Settings from the main menu, or from the pause menu during a run.
 - **How to Play**: opens the in-app manual.
 - **Replay Tutorial**: runs the guided first-time tutorial again.
 
+### Casual
+
+- **Limit level length**: when on, levels are kept short (you choose the maximum gates per level) so each run is a quick 2 to 4 minute challenge instead of a long high-level marathon.
+- Casual runs still advance your level, but they are not ranked: they do not post to the Game Center leaderboards and do not set best times. Turn it off to play full-length, ranked levels again.
+
 ### Purchases
 
 - **Unlock**: buy the one-time full-game unlock.
