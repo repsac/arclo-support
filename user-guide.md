@@ -158,10 +158,10 @@ Reach Settings from the main menu, or from the pause menu during a run.
 - **How to Play**: opens the in-app manual.
 - **Replay Tutorial**: runs the guided first-time tutorial again.
 
-### Casual
+### Challenge
 
-- **Limit level length**: when on, levels are kept short (you choose the maximum gates per level) so each run is a quick 2 to 4 minute challenge instead of a long high-level marathon.
-- Casual runs still advance your level, but they are not ranked: they do not post to the Game Center leaderboards and do not set best times. Turn it off to play full-length, ranked levels again.
+- **Gate cap past level 25**: by default levels grow to 30 gates by level 25 and then hold there. From level 26 on, you can raise this cap (up to 100) for harder, longer levels.
+- Raised-cap levels are worth more: each gate on them scores the cap divided by 30, so a harder, longer level earns proportionally more on the same leaderboard as everyone else. Players at the standard 30 are unaffected. The cap cannot go below 30.
 
 ### Purchases
 

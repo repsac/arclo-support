@@ -13,7 +13,7 @@ Initial public release.
 - Ten difficulty tiers. Tiers 1 to 3 are free; tiers 4 to 10 unlock with a single one-time purchase.
 - A learn-one-at-a-time mechanic ladder: big turns, moving gates, drifting hazards, spin-flips and tether zones, barriers, fly-ins, and pulsing gates, combining in the top tiers.
 - Endless levels: each cleared level generates a slightly harder next one, with difficulty plateauing around level 25.
-- Optional Casual mode: cap the gates per level for quick 2 to 4 minute runs. Casual runs are unranked (no leaderboard scores or best times).
+- Optional Challenge cap: from level 26 on, raise the gate cap (up to 100) for harder, longer levels that score proportionally more on the same leaderboard.
 - Rare floating power-ups: Wide Gates (gates widen briefly), Shield (absorbs one non-void hit), and Freeze (stops moving gates and hazards while the void keeps coming).
 - Clean-streak scoring: consecutive clean gates build a multiplier; a miss resets it, so flawless runs score far higher.
 - A run timer and a saved best time for each level.
