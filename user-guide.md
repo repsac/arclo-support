@@ -158,6 +158,10 @@ Reach Settings from the main menu, or from the pause menu during a run.
 - **How to Play**: opens the in-app manual.
 - **Replay Tutorial**: runs the guided first-time tutorial again.
 
+### Accessibility
+
+- **Screen shake**: on by default. Turn it off to remove the camera shake that happens on taps and impacts, if motion bothers you.
+
 ### Challenge
 
 - **Gate cap past level 25**: by default levels grow to 30 gates by level 25 and then hold there. From level 26 on, you can raise this cap (up to 100) for harder, longer levels.
