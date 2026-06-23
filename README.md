@@ -12,7 +12,7 @@
 
 Found a bug, have a question, or want to suggest a feature?
 
-- Email: [appstore@edcaspersen.com](mailto:appstore@edcaspersen.com)
+- Email: [nospam@edcaspersen.com](mailto:nospam@edcaspersen.com)
 
 ## Legal
 

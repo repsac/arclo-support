@@ -1,6 +1,6 @@
 # Troubleshooting
 
-Quick answers to the most common questions. If your issue isn't here, email [appstore@edcaspersen.com](mailto:appstore@edcaspersen.com) with a short description and what device and iOS version you're on.
+Quick answers to the most common questions. If your issue isn't here, email [nospam@edcaspersen.com](mailto:nospam@edcaspersen.com) with a short description and what device and iOS version you're on.
 
 ## There's no sound or music
 
@@ -67,7 +67,7 @@ Use **Settings > Progress > Reset All Progress** to send every tier in both mode
 
 ## Feature requests and bugs
 
-Email [appstore@edcaspersen.com](mailto:appstore@edcaspersen.com). Include:
+Email [nospam@edcaspersen.com](mailto:nospam@edcaspersen.com). Include:
 
 - What you expected to happen
 - What actually happened

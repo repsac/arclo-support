@@ -56,4 +56,4 @@ If this policy ever changes in a material way, the update will be reflected here
 
 ## Contact
 
-For privacy questions, email **appstore@edcaspersen.com**.
+For privacy questions, email **nospam@edcaspersen.com**.
