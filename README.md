@@ -13,7 +13,6 @@
 Found a bug, have a question, or want to suggest a feature?
 
 - Email: [appstore@edcaspersen.com](mailto:appstore@edcaspersen.com)
-- File an issue on the app's [GitHub issues](https://github.com/repsac/arclo/issues) if you have a GitHub account
 
 ## Legal
 

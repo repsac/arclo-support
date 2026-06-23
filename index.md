@@ -11,4 +11,4 @@ This is the support and documentation site. Pick what you need:
 
 ## Contact
 
-Questions, bugs, or feature requests? Email [appstore@edcaspersen.com](mailto:appstore@edcaspersen.com) or open an issue on the [GitHub issues page](https://github.com/repsac/arclo/issues). Including your device model, iOS version, and the app version (Settings > About inside Arclo) makes reports much easier to act on.
+Questions, bugs, or feature requests? Email [appstore@edcaspersen.com](mailto:appstore@edcaspersen.com). Including your device model, iOS version, and the app version (Settings > About inside Arclo) makes reports much easier to act on.

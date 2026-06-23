@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// The GitHub repos are private (only this Pages site is public), so hide the
+// Cayman theme's auto-generated "View on GitHub" button, which would otherwise
+// link visitors to a repo they can't access.
+.page-header .btn[href*="github.com"] {
+  display: none;
+}

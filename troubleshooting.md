@@ -67,7 +67,7 @@ Use **Settings > Progress > Reset All Progress** to send every tier in both mode
 
 ## Feature requests and bugs
 
-Email [appstore@edcaspersen.com](mailto:appstore@edcaspersen.com) or file an issue on the app's [GitHub issues page](https://github.com/repsac/arclo/issues). Include:
+Email [appstore@edcaspersen.com](mailto:appstore@edcaspersen.com). Include:
 
 - What you expected to happen
 - What actually happened
