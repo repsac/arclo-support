@@ -72,7 +72,7 @@ Email [nospam@edcaspersen.com](mailto:nospam@edcaspersen.com). Include:
 - What you expected to happen
 - What actually happened
 - Device model and iOS version (**iOS Settings > General > About**)
-- The app version (**Settings > About** inside Arclo)
+- The app version (in the Arclo app, under **Settings > About**)
 - Which mode and tier you were playing
 
 Short, specific reports are much easier to act on than vague ones. Screenshots and a screen recording help a lot.

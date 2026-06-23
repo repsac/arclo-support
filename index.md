@@ -11,4 +11,4 @@ This is the support and documentation site. Pick what you need:
 
 ## Contact
 
-Questions, bugs, or feature requests? Email [nospam@edcaspersen.com](mailto:nospam@edcaspersen.com). To help us act on a report quickly, please include your device model, your iOS version, and the app version (shown under Settings > About inside Arclo).
+Questions, bugs, or feature requests? Email [nospam@edcaspersen.com](mailto:nospam@edcaspersen.com). To help us act on a report quickly, please include your device model, your iOS version, and the app version (shown in the app under Settings > About).
