@@ -155,6 +155,7 @@ Reach Settings from the main menu, or from the pause menu during a run.
 ### Game
 
 - **Orbit orientation**: Horizontal, Vertical, or Auto (described above).
+- **Orbit spin direction**: choose which way the orbs spin in Orbit mode: Clockwise (the default), Counter-clockwise, or Random (each level picks a direction). Pendulum ignores this, since gravity defines its swing.
 - **How to Play**: opens the in-app manual.
 - **Replay Tutorial**: runs the guided first-time tutorial again.
 
