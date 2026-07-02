@@ -8,7 +8,7 @@ Distinct new headliners for the top tiers, plus more ways to help (and hurt) you
 
 **New top-tier mechanics**
 - Tier 8: moving barriers. The lethal walls beside a gate now slide back and forth.
-- Tier 9: gravity fields. Telegraphed zones warp your swing while you are inside: Orbit spin speeds up or slows down, Pendulum gets a sideways pull. Eased and shown ahead so you can react.
+- Tier 9: tractor beams. Telegraphed zones drag the whole orb pair sideways while you are inside, so lining up gates and dodging barriers becomes a fight against the pull. Eased and shown ahead so you can react.
 - Tier 10: debuffs. Drifting red anti-power-ups you weave to dodge. Non-lethal, but each applies a penalty: Void Surge (the void permanently speeds up for the rest of the level), Narrow Gates, Frenzy (everything speeds up), Gate Jitter, Wide Barriers, and Teleport (warps you back before your last-cleared gate). Placement is fixed per level, so tier 10 is a consistent, fair challenge.
 
 **New power-up**

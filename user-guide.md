@@ -107,7 +107,7 @@ Each tier adds one new idea on top of the last, so you learn them one at a time:
 - **Tier 6**: fly-ins. Hazards fly in across the lane mid-run.
 - **Tier 7**: pulsing gates. Gate gaps breathe open and closed.
 - **Tier 8**: moving barriers. The lethal walls beside a gate now slide back and forth too.
-- **Tier 9**: gravity fields. Telegraphed purple zones warp your swing while you are inside them: in Orbit your spin speeds up or slows down; in Pendulum a sideways pull tugs the swing. They ease in and out and are shown ahead of time, so watch for the band and re-time your taps.
+- **Tier 9**: tractor beams. Telegraphed purple zones drag the whole orb pair sideways while you are inside them, so lining up gates and dodging barriers becomes a fight against the pull. They ease in and out and are shown ahead of time, so watch for the band and steer against it.
 - **Tier 10**: debuffs. Drifting red anti-power-ups you weave to dodge (see Debuffs below).
 
 Each top tier still carries everything below it, so tier 10 is every twist at once plus its own headliner.
