@@ -106,19 +106,37 @@ Each tier adds one new idea on top of the last, so you learn them one at a time:
 - **Tier 5**: barriers. Gate-sized lethal walls sit beside a gate, so you cannot detour around it. You have to thread the gap.
 - **Tier 6**: fly-ins. Hazards fly in across the lane mid-run.
 - **Tier 7**: pulsing gates. Gate gaps breathe open and closed.
-- **Tiers 8 to 10**: the mechanics combine, building up to everything at once.
+- **Tier 8**: moving barriers. The lethal walls beside a gate now slide back and forth too.
+- **Tier 9**: gravity fields. Telegraphed purple zones warp your swing while you are inside them: in Orbit your spin speeds up or slows down; in Pendulum a sideways pull tugs the swing. They ease in and out and are shown ahead of time, so watch for the band and re-time your taps.
+- **Tier 10**: debuffs. Drifting red anti-power-ups you weave to dodge (see Debuffs below).
+
+Each top tier still carries everything below it, so tier 10 is every twist at once plus its own headliner.
 
 ---
 
 ## Power-ups
 
-Once in a while a glowing token drifts across the lane. Catch it with either orb to trigger an effect that lasts about 10 seconds:
+Once in a while a glowing token drifts across the lane. Catch it with either orb to trigger its effect. Timed effects last about 10 seconds; a small badge with a countdown bar appears at the top of the screen while one is active. Power-ups get more common on higher tiers, and the hardest tiers (8 to 10) can occasionally drop two in a level.
 
 - **Wide Gates**: every gate widens, giving you more room to thread.
 - **Shield**: absorbs a single collision (anything except the void), then it is spent. The void still ends the run, so a shield is for surviving a hazard, post, or barrier, not for outrunning the wall.
-- **Freeze**: stops all moving elements (sliding gates, pulsing gaps, drifting and fly-in hazards) so you can thread a tricky section. The void keeps advancing, so you still have to keep moving.
+- **Freeze**: stops all moving elements (sliding gates, moving barriers, pulsing gaps, drifting and fly-in hazards) so you can thread a tricky section. The void keeps advancing, so you still have to keep moving.
+- **Gate Pass**: a saved charge with no timer. The next gate you would miss is credited as a clean pass instead, with no void surge and no broken combo. It is spent the moment it saves you. (The finish gate still needs a real clean pass.)
 
-Power-ups are rare, so not every run will have one. They are also skipped during the tutorial and the free teaser of a locked tier. While an effect is active, a small badge with a countdown bar appears at the top of the screen.
+Power-ups are rare, so not every run will have one. They are also skipped during the tutorial and the free teaser of a locked tier.
+
+---
+
+## Debuffs (Tier 10)
+
+On tier 10, red warning tokens drift across the lane alongside the power-ups: anti-power-ups. Touching one is **not** fatal, but it applies a penalty, so you weave to dodge them while still threading gates. Their placement is fixed for each level (not random), so every tier-10 level is a consistent, fair challenge. Timed debuffs show a red badge at the top of the screen.
+
+- **Void Surge**: the void permanently speeds up for the rest of the level. Clearing gates will **not** undo it, so once it hits, a single miss can be fatal. It is placed early in the level, where it has the most room to run you down.
+- **Narrow Gates**: gate gaps shrink for a few seconds.
+- **Frenzy**: all environmental motion (gates, pulsing gaps, hazards, barriers) speeds up for a few seconds.
+- **Gate Jitter**: gates twitch and jitter for a few seconds, making precise timing harder.
+- **Wide Barriers**: barriers grow wider for a few seconds, shrinking the lane beside them. This one shows up just before a barrier, so the effect lands when it matters.
+- **Teleport**: instantly warps you back to before your last-cleared gate and un-clears it. You lose ground and have to re-thread that gate, but you are dropped in a safe spot, never onto a barrier or hazard.
 
 ---
 

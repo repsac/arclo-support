@@ -2,6 +2,21 @@
 
 Release notes for every published version of Arclo.
 
+## 1.2
+
+Distinct new headliners for the top tiers, plus more ways to help (and hurt) yourself.
+
+**New top-tier mechanics**
+- Tier 8: moving barriers. The lethal walls beside a gate now slide back and forth.
+- Tier 9: gravity fields. Telegraphed zones warp your swing while you are inside: Orbit spin speeds up or slows down, Pendulum gets a sideways pull. Eased and shown ahead so you can react.
+- Tier 10: debuffs. Drifting red anti-power-ups you weave to dodge. Non-lethal, but each applies a penalty: Void Surge (the void permanently speeds up for the rest of the level), Narrow Gates, Frenzy (everything speeds up), Gate Jitter, Wide Barriers, and Teleport (warps you back before your last-cleared gate). Placement is fixed per level, so tier 10 is a consistent, fair challenge.
+
+**New power-up**
+- Gate Pass: a saved charge that credits the next gate you would miss as a clean pass, with no void surge and no broken combo.
+
+**Balance**
+- Power-ups now get more common on higher tiers, and tiers 8 to 10 can occasionally drop a second one, to offset the tougher mechanics.
+
 ## 1.0
 
 Initial public release.
